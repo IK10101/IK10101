@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Third-year B.Tech student in **CSE/IT** at ABES Institute of Technology, affiliated with AKTU.
+- 🎓 Third-year B.Tech student in **CSE-AI** at ABES Institute of Technology, affiliated with AKTU.
 - 🎯 Expected graduation: **2028**
 - 💻 Interested in **Software Development Engineering, Backend Development, and Systems Programming**.
 - 🧠 Practising Data Structures and Algorithms using **C++**.
